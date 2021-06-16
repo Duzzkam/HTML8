@@ -21,4 +21,8 @@
 	flex-basis: 50%
   }  
 }
+.fa fa-3x fa-free-code-camp my-3 mx-5{
+    icon: url(img/free-code-camp.png);
+}
+
 
